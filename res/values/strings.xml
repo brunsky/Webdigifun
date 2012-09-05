@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="hello">Hello World, HolyBibleActivity!</string>
+    <string name="app_name">衛普</string>
+
+<string name="VideoView_error_button">確認</string>
+    <string name="VideoView_error_title">播放失敗
+</string>
+    <string name="VideoView_error_text_unknown">未知錯誤</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">播放有問題</string>
+</resources>
