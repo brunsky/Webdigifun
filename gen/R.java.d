@@ -1,0 +1,24 @@
+D:\test mv\webdigifun\gen\com\camangi\LABC\R.java \
+ : D:\test mv\webdigifun\res\drawable\ic_media_ff.png \
+D:\test mv\webdigifun\res\drawable\ic_media_info.png \
+D:\test mv\webdigifun\res\drawable\ic_media_next.png \
+D:\test mv\webdigifun\res\drawable\ic_media_pause.png \
+D:\test mv\webdigifun\res\drawable\ic_media_play.png \
+D:\test mv\webdigifun\res\drawable\ic_media_previous.png \
+D:\test mv\webdigifun\res\drawable\ic_media_rew.png \
+D:\test mv\webdigifun\res\drawable-hdpi\ic_launcher.jpg \
+D:\test mv\webdigifun\res\drawable-ldpi\ic_launcher.jpg \
+D:\test mv\webdigifun\res\drawable-mdpi\ic_launcher.jpg \
+D:\test mv\webdigifun\res\layout\main.xml \
+D:\test mv\webdigifun\res\layout\media_controller.xml \
+D:\test mv\webdigifun\res\layout\toast.xml \
+D:\test mv\webdigifun\res\raw\story.mp4 \
+D:\test mv\webdigifun\res\values\strings.xml \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_ff.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_info.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_next.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_pause.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_play.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_previous.png \
+D:\test mv\webdigifun\bin\res\drawable\ic_media_rew.png \
+D:\test mv\webdigifun\AndroidManifest.xml \

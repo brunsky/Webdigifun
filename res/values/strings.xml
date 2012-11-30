@@ -2,11 +2,12 @@
 <resources>
 
     <string name="hello">Hello World, HolyBibleActivity!</string>
-    <string name="app_name">衛普</string>
+    <string name="app_name">LiveABC</string>
 
 <string name="VideoView_error_button">確認</string>
     <string name="VideoView_error_title">播放失敗
 </string>
     <string name="VideoView_error_text_unknown">未知錯誤</string>
     <string name="VideoView_error_text_invalid_progressive_playback">播放有問題</string>
+<string name="infotext">　　按「資訊」鍵隱藏播放面板</string>
 </resources>
